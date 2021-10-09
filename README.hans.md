@@ -66,7 +66,9 @@ sudo apk add wslu
 
 ### Arch Linux
 
-AUR 上的 [wslu](https://aur.archlinux.org/packages/wslu/) 和 [wslu-git](https://aur.archlinux.org/packages/wslu-git/)。
+AUR 版的 `wslu` 软件包因违反其政策而被撤下。
+
+从发行版下载最新的软件包并使用以下命令安装：
 
 ### CentOS/RHEL
 
